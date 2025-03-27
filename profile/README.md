@@ -35,7 +35,7 @@ The application is built on a Spring Boot microservices architecture with the fo
     - Inter-service communication
     - "Solemnly showing where every service is and what it's up to!"
 
-5. [The Pensieve - Outbox Pattern & Search Service](https://github.com/the-leaky-cauldron/the-penisive-scheduler)
+5. [The Pensive Scheduler - Outbox Pattern & Search Service](https://github.com/the-leaky-cauldron/the-penisive-scheduler)
     - "Storing memories of transactions and making them searchable with a swish and flick!"
     - Implements the outbox pattern for Diagon Alley
     - Manages Elasticsearch indexing for product search
